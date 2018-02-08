@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Sidebar.qml</file>
+        <file>MyButton.qml</file>
+        <file>VillageGrid.qml</file>
+        <file>Building.qml</file>
+        <file>Statusbar.qml</file>
+        <file>money1.png</file>
+        <file>money2.png</file>
+        <file>money3.png</file>
+        <file>obstacle.png</file>
+        <file>power1.png</file>
+        <file>power2.png</file>
+        <file>power3.png</file>
+        <file>blank.png</file>
+    </qresource>
+</RCC>
